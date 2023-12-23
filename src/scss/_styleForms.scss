@@ -1,0 +1,29 @@
+.form-control{
+    margin-bottom: 5%;
+}
+
+.nav-tabs{
+    display: none;
+}
+
+.modal-large-form .modal-dialog{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    width: 60%;
+    height: 100%;
+}
+
+.modal-large-form .modal-content{
+    min-height: 100%;
+}
+
+.btn-close{
+    display: none
+}
+
+.mini-advice{
+    font-size: 0.8rem;
+    color: darkgray;
+}
