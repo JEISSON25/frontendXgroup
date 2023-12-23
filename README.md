@@ -26,5 +26,5 @@ $ yarn run dev
 
 or
 ### Docker and DockerCompose
-run command: docker-compose up --build
+# run command: docker-compose up --build
 
