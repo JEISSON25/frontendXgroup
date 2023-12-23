@@ -23,3 +23,8 @@ or
 # dev server with hot reload at http://localhost:3000
 $ yarn run dev
 ```
+
+or
+### Docker and DockerCompose
+run command: docker-compose up --build
+
