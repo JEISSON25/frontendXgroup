@@ -1,11 +1,11 @@
 version: '3'
 
 services:
-  tecnodrone:
+  xgroup:
     build:
       context: .
       dockerfile: Dockerfile
     ports:
       - "3003:3003"
     volumes:
-      - .:/tecnodrone
+      - .:/xgroup
