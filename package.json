@@ -1,17 +1,13 @@
 {
   "name": "testjeixpangroup",
-  "version": "4.5.0",
+  "version": "1.0.0",
   "description": "TestJei XPANGROUP",
   "homepage": ".",
-  "bugs": {
-    "url": "https://github.com/coreui/coreui-free-react-admin-template/issues"
-  },
   "repository": {
     "type": "git",
-    "url": "git@github.com:coreui/coreui-free-react-admin-template.git"
+    "url": "git@github.com:JEISSON25/frontendXgroup.git"
   },
-  "license": "MIT",
-  "author": "The CoreUI Team (https://github.com/orgs/coreui/people)",
+  "author": "INGENIERO JEI",
   "scripts": {
     "dev": "react-scripts start",
     "build": "react-scripts build"

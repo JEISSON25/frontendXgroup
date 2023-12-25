@@ -4,7 +4,7 @@ import axios from 'axios'
 
 const env = () => {
   return axios.create({
-    baseURL: `http://localhost:8004/v1/`,
+    baseURL: process.env.REACT_APP_API_URL,
   })
 }
 
